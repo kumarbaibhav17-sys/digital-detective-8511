@@ -12,7 +12,9 @@ Created the local project folder, all mission folders, README files and an evide
 - Tools: VS Code, GitHub
 
 ## 4. My understanding
-[2-3 sentences in own words: what a repository is, and why folders are organised by mission.]
+A repository is a project folder that Git keeps track of. It stores all my files along with a history of every change I make, so I can see what changed, go back to an earlier version if something breaks, and share the project online through GitHub.
+
+The folders are organised by mission so that each mission’s work stays separate and easy to find. Every mission has its own README and its own commit, which shows my progress step by step and lets my instructor review each mission on its own without searching through mixed files.
 
 ## 5. Difficulties faced
 No major difficulties
