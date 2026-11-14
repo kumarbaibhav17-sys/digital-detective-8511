@@ -33,12 +33,11 @@ I ran `ls -l README.md` and looked at the permission letters. The owner's permis
 
 | OS responsibility | Your explanation | Example |
 |---|---|---|
-| Process management | Decides which programs run, when, and for how long | Switching between Chrome and VS Code at the same time |
-| Memory management | Gives each running program the RAM it needs and takes it back when the program closes | Opening many tabs uses more RAM, and closing them frees it |
-| Device management | Controls hardware like the keyboard, screen and printer using drivers | Sending a document to a printer |
-| File management | Organises how files and folders are stored, named and found on the disk | Creating, saving and opening a file in a folder |
-| User interface / shell | The way a user talks to the OS, either through windows and icons or typed commands | Using the Terminal or clicking icons in Finder |
-| Security and permissions | Controls who can access which files and what they can do with them | Only the owner being able to edit a file |
-
+| Process management | The OS decides which programs run, when they run and for how long, so many programs can work together | Using Chrome and VS Code at the same time |
+| Memory management | The OS gives each running program the RAM it needs and takes it back when the program closes | Opening many browser tabs uses more RAM, and closing them frees it |
+| Device management | The OS controls hardware such as the keyboard, screen and printer through drivers | Sending a document to a printer |
+| File management | The OS organises how files and folders are stored, named, found and opened on the disk | Saving a file in a folder and opening it later |
+| User interface / shell | The OS gives the user a way to communicate with it, through windows and icons or typed commands | Using Finder icons or typing commands in the Terminal |
+| Security and permissions | The OS controls who can access which files and what they can do with them | Only the file's owner being able to edit it |
 
 
